@@ -62,5 +62,5 @@ ORDER BY percentage DESC, contest_id
 
 -- Read me 
 
-1. Use , to divide two commend in ORDER BY
-2. Pay attention to calcuation
+1. Use , to divide two commend ORDER BY
+2. Pay attention to COUNT calcuation
