@@ -34,4 +34,4 @@ WHERE CHAR_LENGTH(content)>15
 -- README:
 1. CHAR_LENGTH(content) # is equal to the string lenth
 2. CHAR_LENGTH('@') # is equal to 1
-3. LENGTH('@') is equal to 3
+3. LENGTH('@') # is equal to 3
